@@ -105,6 +105,13 @@ footer {
     color: #333;
 }
 
+/*Gallery*/
+#photos img{
+    height:auto;
+    width:100%;
+    display:block;
+
+}
 
 /*booking form*/
 #form {
