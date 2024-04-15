@@ -111,6 +111,7 @@ footer {
     height:auto;
     width:100%;
     display:block;
+    margin-bottom:20px;
 
 }
 
@@ -206,6 +207,11 @@ background-position: top;
         
         
     }
+    /*Gap beetween pictures*/
+    #photos img{
+        margin-bottom:5px;
+        width:100%;
+    }
 
     /* Center the form vertically and horizontally */
     #form {
@@ -260,9 +266,11 @@ background-position: top;
         height:auto;
         width:75%;
         display:block;
+        margin-bottom:10px;
+
     }
 }
-/*media querry: laptops and larger screens*/
+/*media querry: laptops and larger screens 1024px and up*/
 @media screen and (min-width:1024px) {
     
     header {
