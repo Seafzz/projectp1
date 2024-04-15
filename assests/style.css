@@ -41,6 +41,9 @@ nav a {
     height: 10px;
 
 }
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
 
 /*main*/
 main {
@@ -250,6 +253,12 @@ footer {
 
     nav a {
         margin: 0 20px;
+    }
+
+    #photos{
+        max-width: 600px;
+        flex: column;
+        column:2;
     }
 
 }
