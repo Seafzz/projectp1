@@ -166,6 +166,7 @@ footer {
 #booksite {
     margin-top:70px;
 }
+/*header for the booking site*/
 #headbook{
     position:fixed;
     top:0;
@@ -261,10 +262,11 @@ background-position: top;
         display:block;
     }
 }
-
+/*media querry: laptops and larger screens*/
 @media screen and (min-width:1024px) {
+    
     header {
-        padding: 30px;
+        padding: 50px;
     }
 
     nav a {
