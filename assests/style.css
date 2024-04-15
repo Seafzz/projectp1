@@ -155,29 +155,34 @@ footer {
     font-size: 16px;
     resize: vertical;
 }
-
-/*picture for the booking site*/
-#boiglo {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-size: cover;
-    background-position: center;
-    z-index: -1;
-
+/*background image for the booking site*/
+.booking-image{
+    position:relative;
+    z-index:1;
+}
+#book{
+    position:relative;
+    z-index:2;
 }
 
 #booksite {
-    position: relative;
+    margin-top:70px;
 }
+#headbook{
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    background-color:#fff;
+    z-index:2;
+}
+body.book-page{
+background-color:rgb(208, 231, 250);
+background-image:url('/workspace/projectp1/assests/images/bookB.jpg');
+background-size:cover;
+background-position: top;
 
-#hamburger-menu {
-    display: none;
-    /* Hide by default */
-    cursor: pointer;
-    padding: 15px;
+
 }
 
 .bar {
@@ -217,12 +222,12 @@ footer {
     /* Adjust font sizes */
     h2 {
         font-size: 24px;
-        /* Increase heading font size for better visibility */
+        
     }
 
     p {
         font-size: 14px;
-        /* Decrease paragraph font size for better view */
+        
     }
 
     /* Adjust button styles */
@@ -230,7 +235,7 @@ footer {
         width: 100%;
         font-size: 16px;
         padding: 12px;
-        /* Increase button padding for better tap target */
+        
     }
 
 }
@@ -256,9 +261,10 @@ footer {
     }
 
     #photos{
-        max-width: 600px;
-        flex: column;
-        column:2;
+        max-width:900px;
+        
+        
+        
     }
 
 }
