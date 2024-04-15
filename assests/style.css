@@ -47,7 +47,6 @@ nav a {
 
 /*main*/
 main {
-    flex: 1;
     padding-bottom: 60px;
 
 }
@@ -281,7 +280,7 @@ background-position: top;
         margin: 0 20px;
     }
 
-    #photos{
+    #photos img{
         max-width:700px;
         
         
