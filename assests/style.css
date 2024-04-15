@@ -196,6 +196,13 @@ background-position: top;
         display: block;
         padding: 10px 20px;
     }
+    body{
+        padding-top:20%;
+    }
+    .active {
+        border-bottom: 1px solid #3a3a3a;
+        width:25%;
+    }
 
     /* Center the form vertically and horizontally */
     #form {
