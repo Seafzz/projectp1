@@ -88,6 +88,7 @@ footer {
     margin: 0;
     padding: 0;
     border-width: 0;
+    bottom:0;
     
 
 }
@@ -288,11 +289,10 @@ background-position: top;
     }
 
     #photos img{
-        max-width:500 px;
+        max-width:500px;
         margin-bottom:10px;
-        
-        
-        
+        max-height: 500px;
+   
     }
 
 }
