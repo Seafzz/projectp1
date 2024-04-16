@@ -75,7 +75,7 @@ In addition, you may also use this section to discuss plans for additional featu
 ## Testing 
 tested on google chrome, no issues
 tested on safari, No issues
-
+Firefox - No issues
 
 
 
