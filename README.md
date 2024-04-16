@@ -1,8 +1,8 @@
 # FrostFire Lodge
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
+Frostfire Lodge: Your Gateway to Arctic Adventure
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
+Nestled amidst the pristine landscapes of northern Sweden, Frostfire Lodge beckons adventurers to explore the untouched beauty of the Arctic wilderness. Our lodge combines cozy accommodations with thrilling outdoor experiences, catering to both seasoned explorers and those seeking serene escapes in nature's embrace. Whether you're chasing the Northern Lights, trekking through snow-laden forests, or simply basking in the tranquility of the Arctic, Frostfire Lodge promises an unforgettable journey into the heart of Sweden's northern wonders.
 
 
 
@@ -17,14 +17,14 @@ In this section, you should go over the different parts of your project, and des
   - Featured on all three pages, the full responsive navigation bar includes links to the Home page, Gallery and Book page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without the back button.
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar]
 
 - __The Home page image__
 
   - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
   - This section introduces the user to the Frostfire lodge and what different offers is avaliable.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![HomePage]
 
 - __What can we offer?__
 
@@ -36,27 +36,26 @@ In this section, you should go over the different parts of your project, and des
   -Relaxation
    This section will give a brief description of whats being offered at the resort 
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
-
+![What_can_we_offer]
 - __Frostfire Lodge aims to section__
 
   - A strong sumarise so the user knows exactly what they can expect to peek their curiosity
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Frostfire_lodge_aims_to]
 
 - __The Footer__ 
 
   - The footer section includes links to the relevant links to the social media of frostfire lodge . The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer]
 
 - __Gallery__
 
   - The gallery will provide the user with supporting images to see what the different activites can offer from pictures, for the snowmobiling to the cultural experiences of the Samis. 
   - 
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Gallery]
 
 - __The Sign Up Page__
 
@@ -74,6 +73,9 @@ In addition, you may also use this section to discuss plans for additional featu
 - More pictures to the gallery
 
 ## Testing 
+tested on google chrome, no issues
+tested on safari, No issues
+
 
 
 
@@ -111,18 +113,21 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 
 
 ## Credits 
-Code Institute and the Love Runing project
+Code Institute and the Love Runing project - (https://github.com/Code-Institute-Solutions/Love-Running-Solutions)
+ChatGPT- for texts and some problem solving
+Akshat_garg_mentor - For providing tips/tricks and help to stay focused!
+
 
 
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
+- The text for the Home page was made with the helpt of ChatGPT
+- Instructions on how to implement form validation on the Sign Up page was taken from Love Runing project from CodeInstitute 
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
-
+Istockphotos for royalfree pictures - https://www.istockphoto.com/
 
 
 ## Other General Project Advice
