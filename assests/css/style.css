@@ -47,9 +47,8 @@ body {
     background-color: rgb(208, 231, 250);
     font-family: "Times New Roman", Times, serif;
     margin-top: 47px;
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
+    
+    
 }
 
 /*Paragraphs*/
@@ -78,7 +77,9 @@ footer {
     padding: 0;
     border-width: 0;
     bottom: 0;
+    position:fixed;
 }
+/*socialmedia icons*/
 
 #socialmedia {
     text-align: center;
@@ -250,6 +251,7 @@ body.book-page {
     nav a {
         margin: 0 20px;
     }
+    /*make the photos into 2 colums when the size of the screen is above 1024px*/
     #photos {
         display: flex;
         flex-wrap: wrap;
