@@ -3,7 +3,7 @@
     background-image: url(https://cdn.pixabay.com/photo/2024/03/09/07/31/aurora-8622158_1280.jpg);
     background-size: cover;
     background-position: center;
-    height: 50vw;
+    height: 20vw;
 
 
 
@@ -82,10 +82,13 @@ h4 {
 
 /*Footer*/
 footer {
-    bottom: 0;
     height: 50px;
-    left: 0;
     width: 100%;
+    background-color:#fff;
+    margin: 0;
+    padding: 0;
+    border-width: 0;
+    
 
 }
 
@@ -95,7 +98,7 @@ footer {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
-
+    font-size:20px;
 
 }
 
@@ -277,7 +280,7 @@ background-position: top;
     }
 
     nav a {
-        margin: 0 20px;
+      /*  margin: 0 20px;*/
     }
 
     #photos img{
