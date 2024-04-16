@@ -175,8 +175,7 @@ footer {
     top:0;
     left:0;
     width:100%;
-    background-color:#fff;
-    z-index:2;
+    z-index:1;
 }
 body.book-page{
 background-color:rgb(208, 231, 250);
@@ -280,11 +279,17 @@ background-position: top;
     }
 
     nav a {
-      /*  margin: 0 20px;*/
+       margin: 0 20px;
+    }
+    #photos{
+        display:flex;
+        flex-wrap: wrap;
+        justify-content:space-between
     }
 
     #photos img{
-        max-width:700px;
+        max-width:500 px;
+        margin-bottom:10px;
         
         
         
