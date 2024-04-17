@@ -61,7 +61,7 @@ Nestled amidst the pristine landscapes of northern Sweden, Frostfire Lodge becko
   - This page will allow the user to start a booking session with frostfire lodge to get the most out of their journey and to experience what they wish to experince! 
   The user will be able specify if they would like a deluxe room an igloo or if they have pets, with and extra textarea for additional information that they may want to provide but its not required. The user will be asked to submit their full name and email address. 
 
-![Sign Up]
+![Book]
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
@@ -110,13 +110,12 @@ No bugs has been found at this time.
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here - https://github.com/Seafzz/projectp1
 
 
 ## Credits 
 Code Institute and the Love Runing project - (https://github.com/Code-Institute-Solutions/Love-Running-Solutions)
 ChatGPT- for texts and some problem solving
-Akshat_garg_mentor - For providing tips/tricks and help to stay focused!
 Photo by <a href="https://unsplash.com/@thejohnnyme?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Nikola Johnny Mirkovic</a> on <a href="https://unsplash.com/photos/woman-in-red-coat-and-black-pants-sitting-on-snow-covered-ground-beside-black-and-brown-vfaD7bscm7I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> 
   
 
