@@ -57,14 +57,14 @@ Nestled amidst the pristine landscapes of northern Sweden, Frostfire Lodge becko
   - The gallery will provide the user with supporting images to see what the different activites can offer from pictures, for the snowmobiling to the cultural experiences of the Samis. 
   
 
-![Gallery]
+![Gallery](https://github.com/Seafzz/images_in_readmepp1/assets/163156309/19c6d6dc-d839-45c7-a758-5d9f41fb32f7)
 
 - __The Booking page__
 
   - This page will allow the user to start a booking session with frostfire lodge to get the most out of their journey and to experience what they wish to experince! 
   The user will be able specify if they would like a deluxe room an igloo or if they have pets, with and extra textarea for additional information that they may want to provide but its not required. The user will be asked to submit their full name and email address. 
 
-![Book]
+![Book](https://github.com/Seafzz/images_in_readmepp1/assets/163156309/c95f5f48-0b65-4806-a248-451ee3b2aa45)
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
