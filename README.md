@@ -44,19 +44,18 @@ Nestled amidst the pristine landscapes of northern Sweden, Frostfire Lodge becko
 
   - A strong sumarise so the user knows exactly what they can expect to peek their curiosity
 
-![Frostfire_lodge_aims_to]
+![Aims too](https://github.com/Seafzz/images_in_readmepp1/assets/163156309/2aaa6156-335a-4f6c-847b-bcc34ccde939)
 
 - __The Footer__ 
 
   - The footer section includes links to the relevant links to the social media of frostfire lodge . The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
-
-![Footer]
+![Footer](https://github.com/Seafzz/images_in_readmepp1/assets/163156309/37a3bfe4-8bb6-46df-a7be-f2a8709b92d8)
 
 - __Gallery__
 
   - The gallery will provide the user with supporting images to see what the different activites can offer from pictures, for the snowmobiling to the cultural experiences of the Samis. 
-  - 
+  
 
 ![Gallery]
 
