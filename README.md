@@ -25,7 +25,7 @@ Nestled amidst the pristine landscapes of northern Sweden, Frostfire Lodge becko
   - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
   - This section introduces the user to the Frostfire lodge and what different offers is avaliable.
 
-![HomePage]
+![Homepage](https://github.com/Seafzz/images_in_readmepp1/assets/163156309/afadc615-c47a-4129-9287-6df253146222)
 
 - __What can we offer?__
 
@@ -37,7 +37,9 @@ Nestled amidst the pristine landscapes of northern Sweden, Frostfire Lodge becko
   -Relaxation
    This section will give a brief description of whats being offered at the resort 
 
-![What_can_we_offer]
+
+![What can we offer](https://github.com/Seafzz/images_in_readmepp1/assets/163156309/1bab8d5e-b5d2-4c97-8063-3f16943f5484)
+
 - __Frostfire Lodge aims to section__
 
   - A strong sumarise so the user knows exactly what they can expect to peek their curiosity
