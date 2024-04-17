@@ -117,6 +117,8 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 Code Institute and the Love Runing project - (https://github.com/Code-Institute-Solutions/Love-Running-Solutions)
 ChatGPT- for texts and some problem solving
 Akshat_garg_mentor - For providing tips/tricks and help to stay focused!
+Photo by <a href="https://unsplash.com/@thejohnnyme?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Nikola Johnny Mirkovic</a> on <a href="https://unsplash.com/photos/woman-in-red-coat-and-black-pants-sitting-on-snow-covered-ground-beside-black-and-brown-vfaD7bscm7I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> 
+  
 
 
 
@@ -129,6 +131,7 @@ Akshat_garg_mentor - For providing tips/tricks and help to stay focused!
 
 ### Media
 Istockphotos for royalfree pictures - https://www.istockphoto.com/
+
 
 
 ## Other General Project Advice
