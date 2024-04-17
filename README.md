@@ -118,7 +118,7 @@ The live link can be found here - https://github.com/Seafzz/projectp1
 
 ## Credits 
 Code Institute and the Love Runing project - (https://github.com/Code-Institute-Solutions/Love-Running-Solutions)
-ChatGPT- for texts and some problem solving
+ChatGPT- for texts and help with problem solving
 Photo by <a href="https://unsplash.com/@thejohnnyme?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Nikola Johnny Mirkovic</a> on <a href="https://unsplash.com/photos/woman-in-red-coat-and-black-pants-sitting-on-snow-covered-ground-beside-black-and-brown-vfaD7bscm7I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> 
 Istockphotos for royalfree pictures - https://www.istockphoto.com/
 Unsplash for royalfree pictures https://unsplash.com/
