@@ -4,7 +4,7 @@ Frostfire Lodge: Your Gateway to Arctic Adventure
 
 Nestled amidst the pristine landscapes of northern Sweden, Frostfire Lodge beckons adventurers to explore the untouched beauty of the Arctic wilderness. Our lodge combines cozy accommodations with thrilling outdoor experiences, catering to both seasoned explorers and those seeking serene escapes in nature's embrace. Whether you're chasing the Northern Lights, trekking through snow-laden forests, or simply basking in the tranquility of the Arctic, Frostfire Lodge promises an unforgettable journey into the heart of Sweden's northern wonders.
 
-[mockup] (https://github.com/Seafzz/images_in_readmepp1/assets/163156309/8c5f6e2c-aa99-4fc7-89ba-78c0730bf19b)
+![mockup generator](https://github.com/Seafzz/images_in_readmepp1/assets/163156309/abd670c5-2dbb-4435-8423-d20cb4cf1dda)
 
 
 
