@@ -8,7 +8,6 @@ Nestled amidst the pristine landscapes of northern Sweden, Frostfire Lodge becko
 
 ## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 ### Existing Features
 
@@ -57,12 +56,12 @@ In this section, you should go over the different parts of your project, and des
 
 ![Gallery]
 
-- __The Sign Up Page__
+- __The Booking page__
 
   - This page will allow the user to start a booking session with frostfire lodge to get the most out of their journey and to experience what they wish to experince! 
   The user will be able specify if they would like a deluxe room an igloo or if they have pets, with and extra textarea for additional information that they may want to provide but its not required. The user will be asked to submit their full name and email address. 
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Sign Up]
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
@@ -102,6 +101,7 @@ No bugs has been found at this time.
 
 
 
+
 ## Deployment
 
 
@@ -131,10 +131,10 @@ Photo by <a href="https://unsplash.com/@thejohnnyme?utm_content=creditCopyText&u
 
 ### Media
 Istockphotos for royalfree pictures - https://www.istockphoto.com/
+Unsplash for royalfree pictures https://unsplash.com/
 
 
 
 ## Other General Project Advice
 
 
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, tak
