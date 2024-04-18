@@ -15,8 +15,8 @@ Nestled amidst the pristine landscapes of northern Sweden, Frostfire Lodge becko
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Home page, Gallery and Book page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without the back button.
+  - Featured on all three pages, the full responsive navigation bar includes links to the Home page, Gallery and Booking page and is identical in each page to allow for easy navigation.
+  - This section will allow the user to easily navigate from page to page across all devices without the back button. With a underline to mark what page they are currently on.
 
 ![navbar](https://github.com/Seafzz/images_in_readmepp1/assets/163156309/e3a7bee9-748c-4476-b97f-62ea23c3d563)
 
