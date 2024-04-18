@@ -66,9 +66,6 @@ Nestled amidst the pristine landscapes of northern Sweden, Frostfire Lodge becko
 
 ![Book](https://github.com/Seafzz/images_in_readmepp1/assets/163156309/c95f5f48-0b65-4806-a248-451ee3b2aa45)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
 
