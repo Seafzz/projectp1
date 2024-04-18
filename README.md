@@ -119,7 +119,7 @@ ChatGPT- for texts and help with problem solving
 Photo by <a href="https://unsplash.com/@thejohnnyme?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Nikola Johnny Mirkovic</a> on <a href="https://unsplash.com/photos/woman-in-red-coat-and-black-pants-sitting-on-snow-covered-ground-beside-black-and-brown-vfaD7bscm7I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> 
 Istockphotos for royalfree pictures - https://www.istockphoto.com/
 Unsplash for royalfree pictures https://unsplash.com/
-
+[Font Awesome](https://fontawesome.com/)
 
 
 
@@ -133,7 +133,7 @@ Unsplash for royalfree pictures https://unsplash.com/
 ### Media
 Istockphotos for royalfree pictures - https://www.istockphoto.com/
 Unsplash for royalfree pictures https://unsplash.com/
-
+[Font Awesome](https://fontawesome.com/)
 
 
 ## Other General Project Advice
