@@ -131,9 +131,9 @@ Unsplash for royalfree pictures https://unsplash.com/
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
-Istockphotos for royalfree pictures - https://www.istockphoto.com/
-Unsplash for royalfree pictures https://unsplash.com/
-[Font Awesome](https://fontawesome.com/)
+- Istockphotos for royalfree pictures - https://www.istockphoto.com/
+- Unsplash for royalfree pictures https://unsplash.com/
+- [Font Awesome](https://fontawesome.com/)
 
 
 ## Other General Project Advice
